@@ -3,7 +3,7 @@
 # -- Project information
 
 project = '无穹智图云平台'
-copyright = '2021, 无穹创新科技有限公司'
+copyright = '2022, 无穹创新科技有限公司'
 author = 'Skyland Innovation'
 
 release = '0.1'
