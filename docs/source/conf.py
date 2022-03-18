@@ -3,11 +3,11 @@
 # -- Project information
 
 project = '无穹智图云平台'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2021, 无穹创新科技有限公司'
+author = 'Skyland Innovation'
 
 release = '0.1'
-version = '0.1.0'
+version = '1.0.0'
 
 # -- General configuration
 
