@@ -7,7 +7,9 @@
    浏览器输入无穹智图云平台登录网址： http://www.cscidtss.com/
 
    输入用户名以及密码，点击
+
    .. image:: ./media/instru058.png
+
    即可登录平台。
 
    .. image:: ./media/image2.png
@@ -23,14 +25,14 @@
 
    用户点击项目选项卡即可进入指定项目。
 
-   .. image:: ./media/instru003.png
+   .. image:: ./media/image3.png
 
 2.1创建新项目（Add New Project）
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
    拥有增加项目权限的用户可以通过点击项目页面的“\ |instru059\ ” 来创建新项目。
 
-   .. image:: ./media/instru004.png
+   .. image:: ./media/image5.png
 
    用户需要填写以下项目信息来增加项目。
 
@@ -38,21 +40,28 @@
 
    用户点击Confirm 之后确认增加项目。
 
-   项目增加成功后会显示在项目列表页面。\ |instru060
+   项目增加成功后会显示在项目列表页面。
+
+   .. image:: ./media/instru060.png
+
 
 2.2查看项目信息(Basic Information)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
    用户点击进入该项目之后会进入项目基本信息页面。用户可以查看在创建新项目时填写的信息。
 
-   .. image:: ./media/instru005.png
+   .. image:: ./media/image7.png
 
 2.3修改项目基本信息（Edit）
 ~~~~~~~~~~~~~~~~~
 
-   如果用户发现有填写错误的项目信息，可以点击项目基本信息页面的“ |instru061\ ”进行修改。可以修改的信息有如下：
+   如果用户发现有填写错误的项目信息，可以点击项目基本信息页面的
 
-   .. image:: ./media/instru006.png
+   .. image:: ./media/instru061.png
+
+   进行修改。可以修改的信息有如下：
+
+   .. image:: ./media/image9.png
 
    项目名称和展示图片在当前版本中不能修改。
 
@@ -102,7 +111,7 @@
 
    用户也可以通过搜索框，对目标POI 进行查找。
 
-   .. image:: ./media/instru007.png
+   .. image:: ./media/image10.png
 
 3.2 BIM 模型(BIM Model)
 ~~~~~~~~~~~~~~~~~~~~~
@@ -112,30 +121,30 @@
 
    用户可以使用此功能快速查看BIM 模型。
 
-   .. image:: ./media/instru008.png
+   .. image:: ./media/image11.png
 
 3.2.2 第一人称视角查看
 ^^^^^^^^^^^^^^^
 
    用户可以通过点击第一视角的命令用第一视角对模型内部进行查看。
 
-   .. image:: ./media/instru009.png
+   .. image:: ./media/image12.png
 
 3.2.3 爆炸图
 ^^^^^^^^^^^^^^^
 
    用户可以点击爆炸视图对BIM 模型进行查看， 并可以查看各构件的属性。
 
-   .. image:: ./media/instru010.png
+   .. image:: ./media/image13.png
 
 3.2.4 用户可以查看不同截面对BIM 模型进行查看。
 ^^^^^^^^^^^^^^^
 
-   .. image:: ./media/instru011.png
+   .. image:: ./media/image14.png
 
 3.2.5 用户可以利用测量工具，对BIM 模型进行长度，距离，角度等的测量。
 ^^^^^^^^^^^^^^^
-   .. image:: ./media/instru012.png
+   .. image:: ./media/image15.png
 
 3.3 多模型叠加显示(GIS + Mesh + BIM)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -151,11 +160,14 @@
 
    用户可以通过悬浮模型列表对Mesh模型或者BIM 模型勾选显示，也可以取消选择将其隐藏。
 
-   |instru062\ 3.3.2测量工具
+   .. image:: ./media/instru062.png
+
+3.3.2测量工具
+^^^^^^^^^^
 
    用户可以使用该模型查看模型并对模型进行包括距离，高度，面积等简单测量。
 
-   .. image:: ./media/instru013.png
+   .. image:: ./media/image17.png
 
 3.4施工现场辅助布置(Equipment Layout Assistant)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -180,9 +192,9 @@
 
 用户需要先点击Edit后才能开始进行场地布置。
 
-.. image:: ./media/instru015.png
-   :width: 5.77222in
-   :height: 3.07852in
+    .. image:: ./media/instru015.png
+       :width: 5.77222in
+       :height: 3.07852in
 
 1. 用户在模型列表中选择需要放置的模型，点击该模型图片选择模型，此时该模型的背景高亮，表示已经选择该模型。
 
@@ -192,9 +204,9 @@
 
 用户可重复上述操作，为场景添加多个模型。
 
-.. image:: ./media/instru016.png
-   :width: 5.76042in
-   :height: 2.89583in
+    .. image:: ./media/instru016.png
+       :width: 5.76042in
+       :height: 2.89583in
 
 3.4.4 施工设备模型的旋转，施工设备与风险区域放大缩小
 ^^^^^^^^^^^^^^^
@@ -203,7 +215,9 @@
 
 用户也可以通过先在列表中单击该模型的名称，平台会自动定位到该模型，用户可以对该模型进行旋转，放大缩小的操作。
 
-|instru063 |instru064
+    .. image:: ./media/instru063.png
+
+    .. image:: ./media/instru064.png
 
 3.4.5 模型位置修改-拖动模型
 ^^^^^^^^^^^^^^^
@@ -215,7 +229,9 @@
 
 用户需要先点击“Edit location”，才可以对位置进行修改，修改完成后，用户点击“Apply Location”完成位置的修改，此时模型会移动到指定的位置。
 
-|instru065\ |instru066
+    .. image:: ./media/instru065.png
+
+    .. image:: ./media/instru066.png
 
 3.4.7 设备模型的显示与隐藏
 ^^^^^^^^^^^^^^^
@@ -225,16 +241,20 @@
 3.4.8 设备模型的删除
 ^^^^^^^^^^^^^^^
 
-用户需要先选择模型后，点击\ |instru067\ 对设备模型进行删除
+用户需要先选择模型后，点击
+
+ .. image:: ./media/instru067.png
+
+对设备模型进行删除
 
 3.4.8 方案的保存-手动保存
 ^^^^^^^^^^^^^^^
 
 用户完成了方案布置后可以通过点击“save”保存方案
 
-.. image:: ./media/instru017.png
-   :width: 5.76042in
-   :height: 2.76042in
+    .. image:: ./media/instru017.png
+       :width: 5.76042in
+       :height: 2.76042in
 
 3.4.9 方案的保存-定时保存
 ^^^^^^^^^^^^^^^
@@ -301,15 +321,15 @@
      - 备注
 
    * - 2
-     - |instru069
+     - .. image:: ./media/instru069.png
      - 左侧为Viewer 1，右侧为Viewer 2。
 
    * - 3
-     - |instru070
+     - .. image:: ./media/instru070.png
      - 下方为Viewer 1，上方右侧为Viewer 2，上方左侧为Viewer 3。
 
    * - 4
-     - |instru069
+     - .. image:: ./media/instru069.png
      - 上方左侧为Viewer 1，上方右侧为Viewer 2， 下方右侧为Viewer 3，下方左侧为Viewer 4。
 
 3）用户可以通过页面下部的不同视口去选择每个视口中需要展示的Mesh 模型的时间，以及是否展示BIM model。
