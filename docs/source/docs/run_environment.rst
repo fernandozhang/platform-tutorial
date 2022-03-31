@@ -58,7 +58,7 @@
 
    用户可以参考以下的设置方式进行设置：
 
-   .. image:: media\image1.png
+   .. image:: .\media\image1.png
 
    2. 点击桌面应用，选择您Chrome的安装位置，一般安装位置为C:\Program Files (x86)\Google\Chrome\Application，并选择Chrome.exe
     .. image:: media\runenv004.png
