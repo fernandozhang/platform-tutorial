@@ -58,20 +58,20 @@
 
    用户可以参考以下的设置方式进行设置：
 
-   .. image:: .\media\image1.png
+   .. image:: ./media/image1.png
 
    2. 点击桌面应用，选择您Chrome的安装位置，一般安装位置为C:\Program Files (x86)\Google\Chrome\Application，并选择Chrome.exe
-    .. image:: media\runenv004.png
+    .. image:: ./media/runenv004.png
        :width: 5.38375in
        :height: 3.41938in
    3. 选择高性能的显卡作为图形首选项
 
-    .. image:: media\runenv003.png
+    .. image:: ./media/runenv003.png
        :width: 5.20833in
        :height: 3.25694in
 
 4. 再次打开Chrome等浏览器，就可以使用高性能的显卡进行平台模型的加载。
 
-    .. image:: media\runenv005.png
+    .. image:: ./media/runenv005.png
        :width: 5.27206in
        :height: 3.67542in
