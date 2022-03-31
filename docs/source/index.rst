@@ -20,6 +20,6 @@
 .. toctree::
    :maxdepth: 2
 
-   docs\overview
-   docs\run_environment
-   docs\instructions
+   docs/overview
+   docs/run_environment
+   docs/instructions
